@@ -16,3 +16,14 @@ Veins 4.7.1
 
 C:/omnetpp-5.6.2/evtls/veins-veins-4.7.1/sumo-launchd.py -vv -c 'C:/Program Files (x86)/DLR/Sumo/bin/sumo-gui.exe'
 
+4. Run the omnetpp.ini in the IDE.
+
+# Functionality of the code
+
+1. Vehicles give way: There is an emergency vehicle (EV) behind, and the autonomous vehicles (AVs) in front will give way to it after receiving the WSM message.
+2. Intelligent traffic light control (TLC): The EV will have green lights in advance when passing through the intersection, and traffic lights will return to normal after passing through the intersection.
+
+# How to realize the functions
+
+Check the EVTLS.CC file. The main codes are shown in the figures below.
+
