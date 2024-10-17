@@ -18,7 +18,7 @@ C:/omnetpp-5.6.2/evtls/veins-veins-4.7.1/sumo-launchd.py -vv -c 'C:/Program File
 
 4. Run the omnetpp.ini in the IDE.
 
-# Functionality of the code
+# Functionality of the Code
 
 1. Vehicles give way: There is an emergency vehicle (EV) behind, and the autonomous vehicles (AVs) in front will give way to it after receiving the WSM message.
 ![image](https://github.com/caoding1996/V2X-Lane-Change-for-Emergency-Vehicle-Preemption/blob/main/before.png)
@@ -30,4 +30,6 @@ C:/omnetpp-5.6.2/evtls/veins-veins-4.7.1/sumo-launchd.py -vv -c 'C:/Program File
 Check the EVTLS.CC file. The main codes are shown in the figures below.
 
 ![image](https://github.com/caoding1996/V2X-Lane-Change-for-Emergency-Vehicle-Preemption/blob/main/code.png)
+
+# Preliminary Results
 
