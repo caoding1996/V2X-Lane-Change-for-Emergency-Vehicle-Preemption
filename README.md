@@ -4,3 +4,8 @@ C. Ding, I. W. -H. Ho, E. Chung and T. Fan, "V2X and Deep Reinforcement Learning
 
 Polyu EIE 575 course students can use it as a reference code, please innovate your own contributions.
 
+# Software Versions
+SUMO 0.32.0
+OMNeT++ 5.6.2
+Veins 4.7.1
+
