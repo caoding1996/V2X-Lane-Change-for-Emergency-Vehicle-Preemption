@@ -33,4 +33,11 @@ Check the EVTLS.CC file. The main codes are shown in the figures below.
 
 # Preliminary Results
 
+1. If both V2X LC and TLC are used, the EV travel time is 123.2 seconds.
+2. If only V2X LC is used, the EV travel time is 127.8 seconds.
+3. Without using any control algorithm, the EV travel time is 217.5 seconds.
+
 ![image](https://github.com/caoding1996/V2X-Lane-Change-for-Emergency-Vehicle-Preemption/blob/main/ev_speed.png)
+
+# Conclusion
+Both V2X LC and TLC can help the EV improve travel efficiency, and V2X LC improves efficiency more significantly than TLC.
