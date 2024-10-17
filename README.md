@@ -33,3 +33,4 @@ Check the EVTLS.CC file. The main codes are shown in the figures below.
 
 # Preliminary Results
 
+![image](https://github.com/caoding1996/V2X-Lane-Change-for-Emergency-Vehicle-Preemption/blob/main/ev_speed.png)
